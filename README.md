@@ -6,7 +6,7 @@
 
 ## 下载安装
 
-在本仓库的 [Releases](../../releases) 下载 `BackScreenStudio-1.3.apk`，传到手机并安装。也可使用：
+下载 [BackScreenStudio-1.3.apk](https://github.com/xiaoouj/stepx-neo-backscreen-studio/raw/refs/heads/main/downloads/BackScreenStudio-1.3.apk)，传到手机并安装。可查看 [版本说明](https://github.com/xiaoouj/stepx-neo-backscreen-studio/releases/tag/v1.3) 和 [SHA256 校验值](downloads/SHA256SUMS.txt)。也可使用：
 
 ```sh
 adb install -r BackScreenStudio-1.3.apk
