@@ -22,6 +22,8 @@ adb install -r BackScreenStudio-1.3.apk
 - **实时电量**：大数字、电池、环形三种样式，支持实时显示、仅充电时显示、充满保留，样式选择自动保存。
 - **后台显示**：前台服务持有画面，离开编辑页后继续播放；保存显示快照，在普通进程回收后尝试恢复。
 - **Amoo 协同**：助手和系统动画接管时暂停自定义输出，确认恢复空闲后重新显示原有内容。
+- <img width="780" height="445" alt="image" src="https://github.com/user-attachments/assets/97c9676b-d2bd-499c-a6ec-fc1b384f3352" />
+
 
 ## 使用提示
 
