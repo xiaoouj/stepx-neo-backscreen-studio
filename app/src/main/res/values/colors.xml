@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF101513</color>
+    <color name="panel">#FF1A211E</color>
+    <color name="panel2">#FF222B36</color>
+    <color name="accent">#FFD1F3AB</color>
+    <color name="accent2">#FF41A5FF</color>
+    <color name="textMain">#FFEAF0F6</color>
+    <color name="textDim">#FF8B98A5</color>
+    <color name="ledOff">#FF141A20</color>
+    <color name="ledOn">#FF9FE870</color>
+    <color name="danger">#FFFF5C5C</color>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+    </style>
+</resources>

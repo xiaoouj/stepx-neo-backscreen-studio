@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">背屏工坊</string>
+    <string name="tab_states">表情</string>
+    <string name="tab_text">文字</string>
+    <string name="tab_pixel">像素画</string>
+    <string name="tab_settings">设置</string>
+    <string name="conn_ok">已连接背屏服务 (display_ext)</string>
+    <string name="conn_fail">未连接到背屏服务 — 此 App 仅适用于 STEPX Neo</string>
+</resources>
